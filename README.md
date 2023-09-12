@@ -12,7 +12,7 @@ Programa exclusivo e gratuito, Promovido para ensino em Tecnologia WEB.
 </p>
 
 <p align="center">
-  <img alt="projeto IAshorts" src=".github/preview.png" width="100%">
+  <img alt="projeto IAshorts" src=".github/capa.png" width="100%">
 </p>
 
 <br>
