@@ -1,7 +1,7 @@
 <h1 align="center"> IA Shorts </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, Promovido para ensino em Tecnologia WEB.
+Programa exclusivo e gratuito!
 </p>
 
 <p align="center">
