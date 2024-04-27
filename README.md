@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by EduxCode :wave: [Participe da nossa comunidade!](https://discord.gg/pgyWakPeKx)
+Feito com ♥ by EduxCode 
